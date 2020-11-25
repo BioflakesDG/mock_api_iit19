@@ -35,6 +35,15 @@
         "price": "20CHF /Kg",
         "availability": "04.10.2020",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115037.jpg&w=480&h=480"
+      },
+      {
+        "id":5,
+        "product": "Tomaten",
+        "sort": "A-Ware",
+        "quantity": "700Kg",
+        "price": "100CHF /Kg",
+        "availability": "04.10.2020",
+        "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=11-201030043021.jpg&w=480&h=480"
       }
   ],
   "profile": {
