@@ -47,6 +47,13 @@
       }
   ],
   "profile": {
-    "name": "bio"
+    "company": "Max Schwarz AG",
+    "id": "CHE-109.107.567",
+    "image":"https://www.bauernhof-ferien.ch/wp-content/uploads/2018/06/IMG-20200512-WA0014-e1593364147191-592x444.jpeg",
+    "contact": "Heinrich Gysi-Holzer",
+    "street": "Hauptstrasse 49",
+    "city": "5234 Villigen",
+    "country":"Schweiz",
+    "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever" 
   }
 }
