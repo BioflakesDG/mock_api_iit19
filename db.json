@@ -45,7 +45,7 @@
         "availability": "04.10.2020",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=11-201030043021.jpg&w=480&h=480"
       }
-  ],
+  ], 
   "profile": {
     "company": "Max Schwarz AG",
     "id": "CHE-109.107.567",
@@ -56,4 +56,22 @@
     "country":"Schweiz",
     "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever" 
   }
+  
+  ,"sales" :[{  
+      "id":1,
+      "product": "Endivie Glatt",
+      "sort": "A-Ware",
+      "quantity": "300Kg",
+      "price": "25CHF /Kg",
+      "availability": "23.11.2020",
+      "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480",
+      "company": "Compass Group AG",
+      "customerid": "CHE-111.111.111",
+      "image":"https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sd072b9cc040170cd/image/i5337e764bae23a2b/version/1582561518/image.jpg",
+      "contact": "Paul Jannsen",
+      "street": "Kasernenstrasse 95",
+      "city": "8004 Zürich",
+      "country":"Schweiz",
+      "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
+  }] 
 }
