@@ -1,22 +1,24 @@
 {
   "offers": [
     {
-      "id":1,
-      "product": "Endivie Glatt",
-      "sort": "A-Ware",
-      "quantity": "500Kg",
-      "price": "20CHF /Kg",
-      "availability": "19.10.2020",
-      "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480"
+      	"id":1,
+      	"product": "Endivie Glatt",
+      	"sort": "A-Ware",
+      	"quantity": "500Kg",
+      	"price": "20CHF /Kg",
+      	"availability": "19.10.2020",
+      	"delivery": "Eigene Logistik",
+      	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480"
     },
     {
-      "id":2,
-      "product": "Tomaten Cherry",
-      "sort": "A-Ware",
-      "quantity": "500Kg",
-      "price": "10CHF /Kg",
-      "availability": "25.11.2020",
-      "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115249.jpg&w=480&h=480"
+      	"id":2,
+      	"product": "Tomaten Cherry",
+      	"sort": "A-Ware",
+      	"quantity": "500Kg",
+      	"price": "10CHF /Kg",
+      	"availability": "25.11.2020",
+      	"delivery": "Eigene Logistik",
+      	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115249.jpg&w=480&h=480"
     },
     {
         "id":3,
@@ -25,6 +27,7 @@
         "quantity": "900Kg",
         "price": "1CHF /Kg",
         "availability": "28.11.2020",
+        "delivery": "Eigene Logistik",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=12-201103033137.jpg&w=480&h=480"
       },
       {
@@ -34,6 +37,7 @@
         "quantity": "300Kg",
         "price": "20CHF /Kg",
         "availability": "04.10.2020",
+	"delivery": "Abholen",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115037.jpg&w=480&h=480"
       },
       {
@@ -43,6 +47,7 @@
         "quantity": "700Kg",
         "price": "100CHF /Kg",
         "availability": "04.10.2020",
+	"delivery": "Abholen",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=11-201030043021.jpg&w=480&h=480"
       }
   ], 
