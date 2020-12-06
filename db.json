@@ -9,6 +9,7 @@
       	"availability": "19.10.2020",
       	"delivery": "Eigene Logistik",
       	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480",
+	    "creationdate":"28.11.2020",
 	    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
     },
     {
@@ -20,6 +21,7 @@
       	"availability": "25.11.2020",
       	"delivery": "Eigene Logistik",
       	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115249.jpg&w=480&h=480",
+	    "creationdate":"28.11.2020",
 	    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
     },
     {
@@ -31,6 +33,7 @@
         "availability": "28.11.2020",
         "delivery": "Eigene Logistik",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=12-201103033137.jpg&w=480&h=480",
+	    "creationdate":"28.11.2020",
 	    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
       },
       {
@@ -42,6 +45,7 @@
         "availability": "04.10.2020",
 	"delivery": "Abholen",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115037.jpg&w=480&h=480",
+	      "creationdate":"28.11.2020",
 	"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
       },
       {
@@ -53,6 +57,7 @@
         "availability": "04.10.2020",
 	"delivery": "Abholen",
         "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=11-201030043021.jpg&w=480&h=480",
+	      "creationdate":"28.11.2020",
 	      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
       }
   ], 
@@ -76,7 +81,7 @@
       "availability": "23.11.2020",
 	"delivery": "Eigene Logistik",
 	  "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480",
-      "sellingdate":"28.11.2020",
+      "creationdate":"28.11.2020",
       "company": "Compass Group AG",
       "customerid": "CHE-111.111.111",
       "customerimage":"https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sd072b9cc040170cd/image/i5337e764bae23a2b/version/1582561518/image.jpg",
