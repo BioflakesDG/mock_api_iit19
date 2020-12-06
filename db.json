@@ -8,7 +8,8 @@
       	"price": "20CHF /Kg",
       	"availability": "19.10.2020",
       	"delivery": "Eigene Logistik",
-      	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480"
+      	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480",
+	    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
     },
     {
       	"id":2,
@@ -18,7 +19,8 @@
       	"price": "10CHF /Kg",
       	"availability": "25.11.2020",
       	"delivery": "Eigene Logistik",
-      	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115249.jpg&w=480&h=480"
+      	"image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115249.jpg&w=480&h=480",
+	    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
     },
     {
         "id":3,
@@ -28,7 +30,8 @@
         "price": "1CHF /Kg",
         "availability": "28.11.2020",
         "delivery": "Eigene Logistik",
-        "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=12-201103033137.jpg&w=480&h=480"
+        "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=12-201103033137.jpg&w=480&h=480",
+	    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
       },
       {
         "id":4,
@@ -38,7 +41,8 @@
         "price": "20CHF /Kg",
         "availability": "04.10.2020",
 	"delivery": "Abholen",
-        "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115037.jpg&w=480&h=480"
+        "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910115037.jpg&w=480&h=480",
+	"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
       },
       {
         "id":5,
@@ -48,7 +52,8 @@
         "price": "100CHF /Kg",
         "availability": "04.10.2020",
 	"delivery": "Abholen",
-        "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=11-201030043021.jpg&w=480&h=480"
+        "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=11-201030043021.jpg&w=480&h=480",
+	      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
       }
   ], 
   "profile": {
