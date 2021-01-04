@@ -92,4 +92,15 @@
       "country":"Schweiz",
       "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever Ipsum has been the industry's standard dummy text ever"
   }] 
+	,"drafts" :[{  
+      "id":1,
+      "product": "Endivie Glatt",
+      "sort": "A-Ware",
+      "quantity": "300Kg",
+      "price": "",
+      "availability": "",
+	"delivery": "",
+	  "image": "https://dev-marketplace.olanga.ch/php/showimage.php?img=2-200910114921.jpg&w=480&h=480",
+      "creationdate":"",
+  }] 
 }
